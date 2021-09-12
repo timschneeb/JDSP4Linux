@@ -1,7 +1,7 @@
 # JDSP4Linux
 Port of the opensource version of JamesDSP to Linux
 
-### This project as well as [gst-plugin-jamesdsp](https://github.com/Audio4Linux/gst-plugin-jamesdsp) has been moved to the GitHub organisation '[Audio4Linux](https://github.com/Audio4Linux)'
+# This project has been moved to the GitHub organisation '[Audio4Linux](https://github.com/Audio4Linux)'
 
 This is experimental and still work in progress.
 Every feature from the opensource version is implemented.
